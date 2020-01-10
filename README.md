@@ -1,4 +1,5 @@
-# Guest User Login Plugin for GoCD https://github.com/bdpiparva/guest-login-plugin/workflows/Java+CI/badge.svg
+# Guest User Login Plugin for GoCD
+https://github.com/bdpiparva/guest-login-plugin/workflows/Java%20CI/badge.svg
 GoCD Guest User Login Plugin allows the user to login as a guest to [GoCD](https://www.gocd.org) server.
 
 ## Requirements
